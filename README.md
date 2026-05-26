@@ -1,16 +1,29 @@
-## Hi there 👋
+## Fatih Çelik
 
-<!--
-**fatihcx/fatihcx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Neuroscience researcher — mechanistic interpretability and computational neuroscience.**
 
-Here are some ideas to get you started:
+I study how neural systems, artificial and biological, represent information and arrive at decisions. My work sits between mechanistic interpretability — reverse-engineering the internal computations of trained networks — and computational neuroscience — modelling the dynamics of neural circuits. The throughline is a single aim: turning opaque systems into ones whose behaviour can be explained, predicted, and reasoned about.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Current directions
+
+- **Mechanistic interpretability of neural systems** — identifying the internal features and circuits through which networks map inputs to decisions, and relating them to theories of neural coding. Feature attribution, circuit-level decomposition, sparse features, activation and representation probing, ablation.
+- **Computational neuroscience** — modelling neural dynamics and connecting these models to measurable prediction, including neuroimaging-derived structure and brain–computer-interface signals.
+
+### Interests
+
+`interpretability` · `explainable AI` · `neural circuits` · `representation analysis` · `neural dynamics` · `neuroimaging` · `brain–computer interfaces`
+
+### Toolbox
+
+![Python](https://img.shields.io/badge/Python-1A1C20?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-1A1C20?style=flat-square&logo=numpy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-1A1C20?style=flat-square&logo=pytorch&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-1A1C20?style=flat-square&logo=jupyter&logoColor=white)
+
+### Elsewhere
+
+[![Website](https://img.shields.io/badge/www.fatihcelik.net-2B4D7A?style=flat-square&logo=safari&logoColor=white)](https://www.fatihcelik.net)
+[![LinkedIn](https://img.shields.io/badge/in%2Ffth--clk-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/fth-clk)
+[![Email](https://img.shields.io/badge/contact%40fatihcelik.net-8A6520?style=flat-square&logo=protonmail&logoColor=white)](mailto:contact@fatihcelik.net)
