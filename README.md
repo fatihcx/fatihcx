@@ -24,6 +24,5 @@ I study how neural systems, artificial and biological, represent information and
 
 ### Elsewhere
 
-[![Website](https://img.shields.io/badge/www.fatihcelik.net-2B4D7A?style=flat-square&logo=safari&logoColor=white)](https://www.fatihcelik.net)
+
 [![LinkedIn](https://img.shields.io/badge/in%2Ffth--clk-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/fth-clk)
-[![Email](https://img.shields.io/badge/contact%40fatihcelik.net-8A6520?style=flat-square&logo=protonmail&logoColor=white)](mailto:contact@fatihcelik.net)
