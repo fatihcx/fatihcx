@@ -48,6 +48,4 @@ Remote work in AI evaluation and clinical or rehabilitation domain expertise, an
 
 ### Elsewhere
 
-[![Website](https://img.shields.io/badge/fatihcelik.net-1A1C20?style=flat-square)](https://www.fatihcelik.net)
 [![LinkedIn](https://img.shields.io/badge/in%2Ffth--clk-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/fth-clk)
-[![Email](https://img.shields.io/badge/contact%40fatihcelik.net-1A1C20?style=flat-square)](mailto:contact@fatihcelik.net)
